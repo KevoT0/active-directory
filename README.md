@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This Project shows hands-on experience on how to deploy a Security Information and event management solution in Azure Cloud, enabling effective monitoring and analysis of security events. An implementation of advanced techniques and configurations to enhance the solution to threats. This practical experience helps provide remediation actions to mitigate and resolve identified cybersecurity incidents. At the end of the project i will showcase my problem solving skills nd ability to respond effectively to security breaches
+This Project shows hands-on experience on how to deploy a Security Information and event management solution in Azure Cloud, enabling effective monitoring and analysis of security events. An implementation of advanced techniques and configurations to enhance the solution to threats. This practical experience helps provide remediation actions to mitigate and resolve identified cybersecurity incidents. At the end of the project, I will showcase my problem-solving skills and ability to respond effectively to security breaches.
 <br />
 
 
