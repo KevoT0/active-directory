@@ -1,8 +1,8 @@
-<h1>Active Directory</h1>
+<h1>Microsoft Sentinel SIEM</h1>
 
 
 <h2>Description</h2>
-This Project shows detailed steps taken to set up a Password manager in the Cloud using AWS. To successfully complete this project the use of PassBolt which is deployed in AWS, the EC2 instance created has an assigned IP Address which is used to setup the Password Manager.  
+This Project shows hands-on experience on how to deploy a Security Information and event management solution in Azure Cloud, enabling effective monitoring and analysis of security events. An implementation of advanced techniques and configurations to enhance the solution to threats. This practical experience helps provide remediation actions to mitigate and resolve identified cybersecurity incidents. At the end of the project i will showcase my problem solving skills nd ability to respond effectively to security breaches
 <br />
 
 
